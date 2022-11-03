@@ -1,3 +1,5 @@
+// (Sum the digits in an integer) Write a method that computes the sum of the digits in an integer.
+
 package project_1.All;
 
 import java.util.Scanner;
